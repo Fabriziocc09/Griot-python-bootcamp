@@ -39,7 +39,7 @@ Este repositorio contiene un script de Python para un asistente de IA que puede 
     El asistente escucha tus órdenes.
     Pronuncie una orden o pregunta con claridad y espere la respuesta.
 
-  <h3>ejemplos:</h3>  
+  ejemplos:  
       1. chat qué es playstation  ## esto se comunicara  con chat gpt y traerá la respuesta a la pregunta que usted le halla echo
       2. pon A tu merced ##Abrira su navegador y reproducira la cancion que le halla pedido
       3. multiplica 9 * 2 ## 18
