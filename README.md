@@ -21,7 +21,7 @@ Este repositorio contiene un script de Python para un asistente de IA que puede 
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/your-username/ai-assistant.git
+   git clone https://github.com/Fabriziocc09/Griot-python-bootcamp.git
 
 2. Instale los paquetes de Python necesarios:
     pip install pywhatkit openai mouse pyttsx3 python-dotenv pyautogui speechrecognition speedtest-cli
